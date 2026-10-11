@@ -1,0 +1,21 @@
+{
+  "name": "irongriper",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "keywords": [
+    "node",
+    "iron",
+    "griper"
+  ],
+  "license": "ISC",
+  "author": "yugansh kaushik",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.7",
+    "express": "^5.3.0"
+  }
+}
